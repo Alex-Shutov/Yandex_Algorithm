@@ -1,4 +1,6 @@
 /.idea/**
 /Yandex-Algorithm.iml
 pom.xml
-/src/**
+/target/**
+/src/main/res*
+/src/test/res*
